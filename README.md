@@ -1,1 +1,1 @@
-#Technologie utrwalania danych dla jêzyka Java
+#Technologie utrwalania danych dla jÄ™zyka Java
